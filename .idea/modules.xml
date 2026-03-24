@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. An Overview Of Java/1. An Overview Of Java.iml" filepath="$PROJECT_DIR$/1. An Overview Of Java/1. An Overview Of Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Introduction of Java Programming/2. Introduction of Java Programming.iml" filepath="$PROJECT_DIR$/2. Introduction of Java Programming/2. Introduction of Java Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Programming Fundamentals/3. Programming Fundamentals.iml" filepath="$PROJECT_DIR$/3. Programming Fundamentals/3. Programming Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Control Structure And Looping Statements/4. Control Structure And Looping Statements.iml" filepath="$PROJECT_DIR$/4. Control Structure And Looping Statements/4. Control Structure And Looping Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Input in java/5. Input in java.iml" filepath="$PROJECT_DIR$/5. Input in java/5. Input in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Array in Java/6. Array in Java.iml" filepath="$PROJECT_DIR$/6. Array in Java/6. Array in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. Array Topics/7. Array Topics.iml" filepath="$PROJECT_DIR$/7. Array Topics/7. Array Topics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core Java.iml" filepath="$PROJECT_DIR$/Core Java.iml" />
     </modules>
   </component>
